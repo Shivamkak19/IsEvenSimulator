@@ -110,5 +110,5 @@ Contributions to this project are welcome, especially regarding the open researc
 
 ## License
 
-[MIT Liscense]
+[MIT LICENSE]
 
